@@ -1,0 +1,12 @@
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Documents achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/bin achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/org achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Vagrantfile achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/pg_config.sh achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Videos achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Pictures achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Music achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/Projects achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/dotfiles achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/backup_scripts achenampara@192.168.1.103::Ajay_P50/ajay/
+rsync -av --password-file=/home/ajay/.rsync_pass /home/ajay/.rsync_pass achenampara@192.168.1.103::Ajay_P50/ajay/
